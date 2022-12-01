@@ -1,5 +1,5 @@
 {
-  "name": "adventurejs-2022",
+  "name": "adventjs-2022",
   "private": true,
   "description": "",
   "scripts": {
@@ -7,15 +7,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fponcedeleon/adventurejs-2022.git"
+    "url": "git+https://github.com/fponcedeleon/adventjs-2022.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fponcedeleon/adventurejs-2022/issues"
+    "url": "https://github.com/fponcedeleon/adventjs-2022/issues"
   },
-  "homepage": "https://github.com/fponcedeleon/adventurejs-2022#readme",
+  "homepage": "https://github.com/fponcedeleon/adventjs-2022#readme",
   "devDependencies": {
     "jest": "^29.3.1"
   }

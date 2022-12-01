@@ -1,6 +1,6 @@
 const wrapping = require("..");
 
-describe("Adventurejs - 1", () => {
+describe("AdventJS - 1", () => {
   it("should wrap nothing when nothing to wrap", () => {
     expect(wrapping([])).toEqual([]);
   });
